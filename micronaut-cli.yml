@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.hartwig
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, kafka, kafka-streams, kotest, kotlin, kotlin-application, logback, readme, shade, yaml]

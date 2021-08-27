@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: scyllaCdcConsumer
+kafka.bootstrap.servers: localhost:9092
